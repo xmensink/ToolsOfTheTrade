@@ -121,6 +121,7 @@ It's on GitHub for a reason! Please submit pull requests.
 * [User Management](#user-management)
 * [User Testing](#user-testing)
 * [Video Hosting](#video-hosting)
+* [Virtual Receptionists] (#phonepbxsms)
 * [VPS](#vps)
 * [WebSockets-aaS](#websockets-aas)
 
@@ -700,6 +701,8 @@ It's on GitHub for a reason! Please submit pull requests.
 | [TalkDesk](https://www.talkdesk.com/) | [@Talkdesk](https://twitter.com/talkdesk) | - | - |
 | [HelloFax](https://www.hellofax.com/) | - | - | - |
 | [Dialpad](https://www.dialpad.com) | [@DialpadHQ](https://twitter.com/dialpadHQ) | $15/user/mo | people-first phone and meeting system that includes internet fax and follows you where you work |
+| [Smith.ai Virtual Receptionists & Web Chat](https://smith.ai) |  [@smithdotai](https://twitter.com/smithdotai) | Starter plan is $140/mth | Smith.ai is a superior 24/7 virtual receptionist service that specializes in converting new potential clients who call you, text you, message you on Facebook, or visit your website. Our AI-backed, professional LIVE AGENTS do much more than answer calls and chats -- we screen and intake clients, schedule appointments, take payments, and follow-up with online leads. Additionally, with Smith.ai you can integrate your CRM platform to push call summaries, chat transcripts, and contact information into your software.Works with popular platforms like Salesforce, Hubspot, ActiveCampaign, Clio, and more.|
+
 
 
 ### System Monitoring
